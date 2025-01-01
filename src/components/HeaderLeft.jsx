@@ -6,7 +6,7 @@ const HeaderLeft = () => {
     <div className="md:flex-[1]">
       <div className='min-h-screen top-0 hidden 
       md:sticky md:flex items-center justify-center 
-      bg-green-900 text-white'>
+      bg-sky-900 text-white'>
         <ul className='flex flex-col gap-10'>
           {["Home", "Experience", "Projects", "Contact"].
           map((item) => (
@@ -30,7 +30,7 @@ const HeaderLeft = () => {
       </div>
 
       <div className='fixed left-0 right-0 top-0 z-10
-      flex justify-evenly bg-green-900 p-5 text-white
+      flex justify-evenly bg-sky-900 p-5 text-white
       md:hidden'>
         <a href='#home' className='flex flex-col
         items-center justify-center'>
