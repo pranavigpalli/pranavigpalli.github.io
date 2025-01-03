@@ -14,11 +14,11 @@ const Home = () => {
                 sm:w-[350px] rounded-full'/>
 
                 <div className="space-y-1 sm:space-y-3">
-                    <h1 className='bg-gradient-to-r from-sky-600 to-sky-900
+                    <h1 className='bg-gradient-to-r from-sky-500 to-sky-950
                     bg-clip-text text-4xl font-semibold text-transparent
                     md:text-5xl lg:text-6xl'>Pranavi Gollanapalli</h1>
 
-                    <h3 className='bg-gradient-to-r from-sky-600 to-sky-900
+                    <h3 className='bg-gradient-to-r from-sky-500 to-sky-950
                     bg-clip-text text-xl font-semibold text-transparent
                     md:text-2xl lg:text-3xl'>CS & BIM Student @ UC Irvine</h3>
 
