@@ -1,5 +1,7 @@
 import React from 'react'
 
+{/* FIXME: Resize is not working on smaller screens to make projects stack on top of each other */}
+
 const Projects = () => {
   return (
     <div id='Projects' className='min-h-screen w-full flex flex-col items-center justify-center

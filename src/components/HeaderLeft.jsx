@@ -1,6 +1,8 @@
 import React from 'react'
 import { BiHome, BiMailSend, BiCode, BiBriefcase, BiRightArrowAlt } from 'react-icons/bi'
 
+{/* FIXME: Header is not working on small screens, only on large screens */}
+
 const HeaderLeft = () => {
   return (
     <div className="md:flex-[1]">
