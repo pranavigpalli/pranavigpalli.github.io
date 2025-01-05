@@ -1,7 +1,6 @@
 {
   "private": true,
   "type": "module",
-  "homepage" : "https://pranavigpalli.github.io/MyPortfolio",
   "name": "my-portfolio",
   "version": "0.1.0",
  "scripts": {
