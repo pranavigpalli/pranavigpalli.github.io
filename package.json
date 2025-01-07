@@ -1,7 +1,7 @@
 {
   "private": true,
   "type": "module",
-  "name": "my-portfolio",
+  "name": "pranavigpalli.github.io",
   "version": "0.1.0",
  "scripts": {
   "dev": "vite",
