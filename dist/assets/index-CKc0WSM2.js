@@ -53,7 +53,7 @@ Error generating stack: `+i.message+`
         items-center justify-center`,children:[v.jsx(Zd,{className:"text-2xl"}),v.jsx("span",{className:"text-xs",children:"Home"})]}),v.jsxs("a",{href:"#experience",className:`flex flex-col
         items-center justify-center`,children:[v.jsx(Xd,{className:"text-2xl"}),v.jsx("span",{className:"text-xs",children:"Experience"})]}),v.jsxs("a",{href:"#projects",className:`flex flex-col
         items-center justify-center`,children:[v.jsx(Gd,{className:"text-2xl"}),v.jsx("span",{className:"text-xs",children:"Projects"})]}),v.jsxs("a",{href:"#contact",className:`flex flex-col
-        items-center justify-center`,children:[v.jsx(Jd,{className:"text-2xl"}),v.jsx("span",{className:"text-xs",children:"Contact"})]})]})]}),np="/assets/image-C1EX01E6.png",rp=()=>v.jsx("div",{id:"Home",className:`flex min-h-screen
+        items-center justify-center`,children:[v.jsx(Jd,{className:"text-2xl"}),v.jsx("span",{className:"text-xs",children:"Contact"})]})]})]}),np="/pranavigpalli.github.io/assets/image-C1EX01E6.png",rp=()=>v.jsx("div",{id:"Home",className:`flex min-h-screen
         w-full items-center justify-center`,children:v.jsxs("div",{className:`flex flex-col items-center
             justify-center gap-8 p-5 text-center`,children:[v.jsx("img",{src:np,alt:"",className:`w-[300px]
                 sm:w-[350px] rounded-full`}),v.jsxs("div",{className:"space-y-1 sm:space-y-3",children:[v.jsx("h1",{className:`bg-gradient-to-r from-sky-500 to-sky-950
