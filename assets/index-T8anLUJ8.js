@@ -55,7 +55,7 @@ Please change the parent <Route path="${c}"> to <Route path="${c==="/"?"*":`${c}
         items-center justify-center`,children:[S.jsx(zm,{className:"text-2xl"}),S.jsx("span",{className:"text-xs",children:"Home"})]}),S.jsxs("a",{href:"#experience",className:`flex flex-col
         items-center justify-center`,children:[S.jsx(Lm,{className:"text-2xl"}),S.jsx("span",{className:"text-xs",children:"Experience"})]}),S.jsxs("a",{href:"#projects",className:`flex flex-col
         items-center justify-center`,children:[S.jsx(jm,{className:"text-2xl"}),S.jsx("span",{className:"text-xs",children:"Projects"})]}),S.jsxs("a",{href:"#contact",className:`flex flex-col
-        items-center justify-center`,children:[S.jsx(Tm,{className:"text-2xl"}),S.jsx("span",{className:"text-xs",children:"Contact"})]})]})]}),Fm="/pranavigpalli.github.io/image.png",$m=()=>S.jsx("div",{id:"Home",className:`flex min-h-screen
+        items-center justify-center`,children:[S.jsx(Tm,{className:"text-2xl"}),S.jsx("span",{className:"text-xs",children:"Contact"})]})]})]}),Fm="/image.png",$m=()=>S.jsx("div",{id:"Home",className:`flex min-h-screen
         w-full items-center justify-center`,children:S.jsxs("div",{className:`flex flex-col items-center
             justify-center gap-8 p-5 text-center`,children:[S.jsx("img",{src:Fm,alt:"",className:`w-[300px]
                 sm:w-[350px] rounded-full`}),S.jsxs("div",{className:"space-y-1 sm:space-y-3",children:[S.jsx("h1",{className:`bg-gradient-to-r from-sky-500 to-sky-950
