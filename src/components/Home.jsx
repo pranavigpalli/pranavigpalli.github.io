@@ -1,5 +1,5 @@
 import React from 'react'
-import pfp from '../../public/image.png'
+import pfp from '/image.png'
 import { BiLogoGithub, BiLogoLinkedin } from 'react-icons/bi'
 
 const Home = () => {
