@@ -18,10 +18,14 @@ const Experience = () => {
 
             <h3 className='text-xl font-semibold md:text-2xl'>Lineage Logistics</h3>
 
-            <p className='font-light text-lg text-gray-700'>Intern, Jan 2025 - Present</p>
+            <p className='font-light text-lg text-gray-700'>SWE Intern, Jan 2025 - June 2025</p>
 
             <p className='text-sm text-gray-700'>
-              Starting Soon!</p>
+              Built a scalable Python ETL pipeline (Pandas, NumPy, SQL) to process 17k+ inventory records 
+              for thermal inertia analysis. Integrated NLP system to automate thermal heat capacity estimation with 98% accuracy.
+              Extracted insights from pipeline output, leading to strategies projected to reduce energy consumption 
+              by 25% and saving $3M+ annually.
+</p>
 
             <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full
             bg-sky-700'>
@@ -34,14 +38,13 @@ const Experience = () => {
             <h3 className='text-xl font-semibold md:text-2xl'>Simulated Annealing Haplotype 
               Aligner Research Project @ UCI</h3>
 
-            <p className='font-light text-lg text-gray-700'>Developer, Sep 2024 - Present </p>
+            <p className='font-light text-lg text-gray-700'>Developer, Sep 2024 - July 2025 </p>
 
             <p className='text-sm text-gray-700'>
-            Enhanced and optimized haplotype assembly algorithms by refining genome read 
-            prioritization strategies, achieving a 20% reduction in runtime for datasets 
-            with over 500 single nucleotide polymorphisms (SNPs). Contributed to solving 
-            the Weighted Minimum Error Correction (wMEC) problem for diploid data by 
-            implementing advanced C++ modifications to the existing SAHap algorithm.
+            Refactored C-based haplotype alignment algorithm, reducing runtime by 20% on single nucleotide polymorphism (SNPs).
+            Engineered a custom k-mer algorithm to align polyploid genomes, reducing error rates by 50% (from 8% to 4%) on datasets of up to 20,000 SNPs.
+            Recognized with the Chancellor’s Award for Excellence in Undergraduate Research (Top 1% of 500+ applicants).
+
             </p>
 
             <span className='absolute -left-[11px] top-10 h-5 w-5 rounded-full
@@ -78,7 +81,7 @@ const Experience = () => {
 
               <h3 className='text-xl font-semibold md:text-2xl'>UCI ICS Student Council</h3>
 
-              <p className='font-light text-lg text-gray-700'>PR Team Member, Dec 2023 - Present</p>
+              <p className='font-light text-lg text-gray-700'>Vice President, Dec 2023 - Present</p>
 
               <p className='text-sm text-gray-700'>
               Collaborated with committee members on all external communications such as blog posts, 
